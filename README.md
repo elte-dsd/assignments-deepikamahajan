@@ -1,5 +1,4 @@
-# assignments-deepikamahajan
-assignments-deepikamahajan created by GitHub Classroom
+
 Assignment 3: 
 Implementation of a Weighted Ensemble Classifier:
 The implementation follows the described techniques in"Mining Concept-Drifting Data Streams using Ensemble Classifiers", by Haixun Wang, Wei Fan, Philip S. Yu, Jiawei Han.
